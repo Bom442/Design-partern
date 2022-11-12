@@ -1,0 +1,34 @@
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# ---> Java
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# maven ignore
+target/
+test-output/
+bin/
+logs/
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+#maven
+.flattened-pom.xml
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.java~
+*.properties~
+*.xml~
