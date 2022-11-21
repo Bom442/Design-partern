@@ -1,5 +1,5 @@
 package builder.abstractfactory;
 
-public class Phone {
-
+public abstract class Phone{
+    abstract void phone();
 }

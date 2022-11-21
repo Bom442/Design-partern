@@ -5,9 +5,9 @@ package builder.abstractfactory;
  */
 public abstract class AbstractFactory {
 
-    public abstract Phone getPhone();
+    abstract Computer getComputer();
 
-    public abstract Computer getComputer();
+    abstract Phone getPhone();
 
-    public abstract Router getRouter();
+    abstract Router getRouter();
 }

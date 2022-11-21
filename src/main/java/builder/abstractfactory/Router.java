@@ -1,8 +1,6 @@
 package builder.abstractfactory;
 
-/**
- * 路由器
- */
-public class Router {
+public abstract class Router {
 
+    abstract void route();
 }
